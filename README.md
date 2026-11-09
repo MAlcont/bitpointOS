@@ -1,9 +1,5 @@
-<table>
-<tr>
-<td><h1>bpOS — Bitpoint OS</h1></td>
-<td><i>if you're gonna use it, you're gonna leverage it</i></td>
-</tr>
-</table>
+# bpOS — Bitpoint OS
+<sub><i>if you're gonna use it, you're gonna leverage it</i></sub>
 
 **v0.2.2 alpha · An internet-linked Bitcoin wallet identity proof at the shared mining interface.**
 
