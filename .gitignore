@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+*.db
+*.sqlite3
+.env
+keys/
+.DS_Store
